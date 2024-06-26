@@ -1,4 +1,3 @@
-Sure, here is a README file for your GitHub repository:
 
 ---
 
@@ -67,11 +66,6 @@ We welcome contributions from the community! If you would like to contribute to 
    ```
 5. Open a pull request to the main repository.
 
-Please ensure that your contributions adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) and follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
